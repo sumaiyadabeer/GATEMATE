@@ -1,0 +1,26 @@
+
+body
+{
+text-align: center;
+margin-right : 200px;
+margin-left : 200px;
+background-color:#d0e4fe;
+}
+h1
+{
+text-decoration:underline;
+font-family:"Times New Roman";
+color:red;
+text-align:center;
+}
+h2 
+{
+ color: blue; 
+font-family: "Trebuchet MS
+text-align:center;
+ }
+h4
+{
+ color: blue; 
+text-align:left;
+ }
